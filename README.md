@@ -11,3 +11,5 @@
 * http://alextoucour.blogspot.fr/2014/10/ukulele-tenor-pour-lola.html
 ## Lap Steel
   * http://www.buildyourguitar.com/resources/lapsteel/index.htm
+## Fret Calculator
+  * https://www.stewmac.com/FretCalculator
