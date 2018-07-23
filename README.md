@@ -13,6 +13,6 @@
   * https://www.stewmac.com/FretCalculator
 ## Lap Steel
   * http://www.buildyourguitar.com/resources/lapsteel/index.htm
-  ## Cigar box
-    * https://www.cigarboxguitar.com/knowledge-base/how-to-make-a-simple-cigar-box-guitar-metric-included/#more-3215
-    * https://www.artofmanliness.com/articles/how-to-make-a-cigar-box-guitar/
+## Cigar box
+  * https://www.cigarboxguitar.com/knowledge-base/how-to-make-a-simple-cigar-box-guitar-metric-included/#more-3215
+  * https://www.artofmanliness.com/articles/how-to-make-a-cigar-box-guitar/
