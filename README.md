@@ -9,3 +9,5 @@
 * https://www.youtube.com/watch?v=7xzv8h_5yJs
 * https://www.youtube.com/watch?v=biWk-QLWY7U
 * http://alextoucour.blogspot.fr/2014/10/ukulele-tenor-pour-lola.html
+## Lap Steel
+  * http://www.buildyourguitar.com/resources/lapsteel/index.htm
